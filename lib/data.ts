@@ -33,52 +33,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "120-Hour TEFL certification",
+    title: "EFL/ESL Teacher ",
     location: "UK",
     description:
-      "                                                                                                                                          ",
-    icon: React.createElement(TbLicense),
-    date: "2019",
-  },
-  {
-    title: "Student Representative",
-    location: "Birmingham, UK",
-    description:
-      "I was a student representative at The University of Birmingham.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2020-2021",
-  },
-  {
-    title: "30-Hour Teaching IELTS Exam Preparation Course",
-    location: "UK",
-    description:
-      "                                                                                                                 ",
-    icon: React.createElement(TbLicense),
-    date: "2022",
-  },
-  {
-    title: "Volunteer Tutor at Tutor the Nation ",
-    location: "UK",
-    description:
-      "I firmly believe in the provision of equal education opportunities across society. Therefore, I started volunteering for Tutor the Nation, an organisation supporting students from unprivileged backgrounds throughout their GCSEs and A-levels. Since then, I have had two tutees achieve their desired grades that have allowed them to get into the college/university of their choice.",
+      "I have completed a total of over 500-hours teaching online via the digital learning platform Preply. Although using a digital platform is often frowned upon, it has allowed me to transform traditional teaching methodologies, tailoring my lesson plans to the individual needs of each student. Thus, propelling their learning journey. ",
     icon: React.createElement(PiChalkboardTeacher),
-    date: "2022-2023",
-  },
-  {
-    title: "University of Birmingham",
-    location: "Birmingham, UK",
-    description:
-      "1st Class Honours Degree with Distinction in Spoken Spanish",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019-2023",
-  },
-  {
-    title: "180-Hour Level 5 TEFL (Highfield) Certification",
-    location: "UK",
-    description:
-      "                                                                                                       ",
-    icon: React.createElement(TbLicense),
-    date: "2023",
+    date: "2021-present",
   },
   {
     title: "Freelance Translator ",
@@ -90,15 +50,53 @@ export const experiencesData = [
     date: "2019-present",
   },
   {
-    title: "EFL/ESL Teacher ",
+    title: "180-Hour Level 5 TEFL (Highfield) Certification",
     location: "UK",
     description:
-      "I have completed a total of over 500-hours teaching online via the digital learning platform Preply. Although using a digital platform is often frowned upon, it has allowed me to transform traditional teaching methodologies, tailoring my lesson plans to the individual needs of each student. Thus, propelling their learning journey. ",
-    icon: React.createElement(PiChalkboardTeacher),
-    date: "2021-present",
+      "                                                                                                       ",
+    icon: React.createElement(TbLicense),
+    date: "2023",
   },
-
-  
+  {
+    title: "University of Birmingham",
+    location: "Birmingham, UK",
+    description:
+      "1st Class Honours Degree with Distinction in Spoken Spanish",
+    icon: React.createElement(LuGraduationCap),
+    date: "2019-2023",
+  },
+  {
+    title: "Volunteer Tutor at Tutor the Nation ",
+    location: "UK",
+    description:
+      "I firmly believe in the provision of equal education opportunities across society. Therefore, I started volunteering for Tutor the Nation, an organisation supporting students from unprivileged backgrounds throughout their GCSEs and A-levels. Since then, I have had two tutees achieve their desired grades that have allowed them to get into the college/university of their choice.",
+    icon: React.createElement(PiChalkboardTeacher),
+    date: "2022-2023",
+  },
+  {
+    title: "30-Hour Teaching IELTS Exam Preparation Course",
+    location: "UK",
+    description:
+      "                                                                                                                 ",
+    icon: React.createElement(TbLicense),
+    date: "2022",
+  },
+  {
+    title: "Student Representative",
+    location: "Birmingham, UK",
+    description:
+      "I was a student representative at The University of Birmingham.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2020-2021",
+  },
+  {
+    title: "120-Hour TEFL certification",
+    location: "UK",
+    description:
+      "                                                                                                                                          ",
+    icon: React.createElement(TbLicense),
+    date: "2019",
+  },
 ] as const;
 
 export const projectsData = [
