@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://media.licdn.com/dms/image/D4E03AQH6vu_Gz0SrQQ/profile-displayphoto-shrink_200_200/0/1691440446268?e=1709164800&v=beta&t=sG7Dwlmlah9HyRfy06s5iEwWtheQxFQexaqIJYOTw40"
+              src={"/Tatiana.jpg"}
               alt="Ricardo portrait"
               width="192"
               height="192"
@@ -91,7 +91,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/Tatiana.CV.docx (1).pdf"
+          href="/Tatiana.CV.pdf"
           download
         >
           Download CV{" "}
